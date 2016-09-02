@@ -16,5 +16,9 @@ author:
   email: brentonluchow@me.com
   url: erakorlagoonhouse.holiday
 name: 'Erakor Lagoon Holiday House '
+navigation:
+  - name: Port Vila
+    id: a53ac62e-1714-475b-a1b6-af3e7d454fa6
+    type: content
 title: YOUR PRIVATE GETAWAY IN PARADISE
 description: A beachfront holiday home on stunning Erakor Lagoon
